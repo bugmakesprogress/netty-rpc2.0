@@ -19,6 +19,6 @@ nettp rpc learning project 2.0
 ## reference:
   * [轻量级分布式 RPC 框架](https://my.oschina.net/huangyong/blog/361751)
   * [一个轻量级分布式RPC框架--NettyRpc](https://www.cnblogs.com/luxiaoxun/p/5272384.html)
-  
+  * [原始代码](https://github.com/luxiaoxun/NettyRpc)
 ## degraded project
   * [netty-rpc1.0](https://github.com/bugmakesprogress/netty-rpc)
