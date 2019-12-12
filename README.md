@@ -2,7 +2,7 @@
 nettp rpc learning project 2.0
 
 ## structure
-  * contract: for test purpose
+  * contract: for test purpose, including interfaces and beans that client and server will use
   * rpc-core: core bean definition and serialize
   * rpc-client
   * rpc-server
